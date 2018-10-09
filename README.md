@@ -1,4 +1,4 @@
 # DDYStretchHeader
 
 
-![DDYStretchHeader.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYStretchHeader.png)
+![DDYStretchHeader.gif](https://github.com/starainDou/DDYDemoImage/blob/master/DDYStretchHeader.gif)
